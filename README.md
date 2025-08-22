@@ -496,9 +496,8 @@ while True:
 
 
 ## 7. 관련 내용
-- 내용에 사용된 이론에 대해서 소개하는 란 입니다.  
-- 개별 문서로 링크 걸기
 
+[4DoF Kinematics](https://github.com/RoboidStudioLAB/Wiki_Image/wiki/4Dof-Kinematics(%EA%B8%B0%EA%B5%AC%ED%95%99))
 
 <br>
 
