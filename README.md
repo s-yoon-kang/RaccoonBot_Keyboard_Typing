@@ -30,9 +30,9 @@ RaccoonBot이 입력된 문장을 직접 키보드로 반복 타이핑하는 예
 [*예제 파일 다운로드*](링크)
 
 | 제품명(수량) | 이미지 | 제품명(수량) | 이미지 |
-| --- | --- | --- | --- |
-| Raccoon<br> (1개) | --- | 키보드용 말단 장치<br> (1개) | --- |
-| 미니 키보드<br> (1개) | --- | Python | --- |
+| :---: | :---: | :---: | :---: |
+| Raccoon<br> (1개) | <img width="200" alt="Image" src="https://github.com/user-attachments/assets/6aed75da-3092-4295-9ef7-e8956efa5bae" /> | 키보드용 말단 장치<br> (1개) | <img width="50" alt="Image" src="https://github.com/user-attachments/assets/4c2f9d5a-0253-4ff0-b5cf-58f43507cfec" /> |
+| 미니 키보드<br> (1개) | <img width="200" alt="Image" src="https://github.com/user-attachments/assets/d03b4532-8ac9-4c96-a1a5-9764d744256b" /> | Python | <img width="200" alt="Image" src="https://github.com/user-attachments/assets/62366b02-9b80-41fc-951b-b54c51f5814b" /> |
 
 <br><br>
 
