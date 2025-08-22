@@ -76,7 +76,21 @@ RaccoonBot이 입력된 문장을 직접 키보드로 반복 타이핑하는 예
 
 
 ## 3. 작동하기
-- 블록 컴포저나 파이썬을 통해 작동하는 방법을 적는 란입니다.
+- 코드에 반복 타이핑할 문장을 **영어**로 **["문장"]** 과 같이 입력합니다. 
+
+  <img width="500" alt="Image" src="https://github.com/user-attachments/assets/78056e0e-83d0-4392-a9c0-40b78b0fce89" />
+
+<br><br>
+
+- 여러 문장의 경우 다음과 같이 **["문장 1", "문장 2"]** 로 나눠서 작성합니다.
+
+  <img width="500" alt="Image" src="https://github.com/user-attachments/assets/237277ba-68a3-42e8-8a9b-6d395765a971" />
+
+<br><br>
+
+- **오른쪽 위 재생 버튼**을 눌러 코드를 실행합니다.
+
+  <img width="1500" alt="Image" src="https://github.com/user-attachments/assets/4f7ce5bf-3c7b-467f-bde2-eb4daea5f131" />
 
 <br><br>
 
