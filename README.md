@@ -27,7 +27,7 @@ RaccoonBot이 입력된 문장을 직접 키보드로 반복 타이핑하는 예
 
 ## 1. 준비물
 
-[*예제 파일 다운로드*](링크)
+[*예제 파일 다운로드*](https://www.dropbox.com/scl/fi/qfy0d8zu9ey9oe13lejax/Raccoon_Keyboard_Typing.py?rlkey=qgfx0zc0tefwx7ai0kjuxfb8n&st=q20p6q1b&dl=0)
 
 | 제품명(수량) | 이미지 | 제품명(수량) | 이미지 |
 | :---: | :---: | :---: | :---: |
