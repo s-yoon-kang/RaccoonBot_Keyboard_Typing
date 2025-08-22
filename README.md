@@ -9,7 +9,7 @@ RaccoonBot이 입력된 문장을 직접 키보드로 반복 타이핑하는 예
 예제에는 **잘못된 입력 감지**, **대/소문자 감지**, **키 입력 감지/재시도** 기능이 있습니다.
 <br>
 
- <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/922f348e-4223-48b0-a655-dfa4bb3dde81" />
+ <img width="500" alt="Image" src="https://github.com/user-attachments/assets/922f348e-4223-48b0-a655-dfa4bb3dde81" />
 
 <br><br>
 
