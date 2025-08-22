@@ -41,7 +41,33 @@ RaccoonBot이 입력된 문장을 직접 키보드로 반복 타이핑하는 예
 
 
 ## 2. 초기 환경 구성
-- 초기 환경을 어떻게 구성할지에 대해 작성하는 란 입니다.
+- Raccoon과 키보드를 **5cm** 간격을 두고 중앙을 맞춰 **마주보게** 배치해주세요.
+
+  <img width="500" alt="Image" src="https://github.com/user-attachments/assets/6e493534-edd2-477e-9397-18614ac4790a" />
+
+<br><br>
+
+- **Joint 4**가 **수직**으로 키의 정중앙을 누를 수 있게 위치를 조절하며 **key_mapping** 함수를 수정합니다.
+
+  <img width="500" alt="Image" src="https://github.com/user-attachments/assets/73220c2d-ced2-4b4c-8178-90f19193a4b0" />
+
+<br><br>
+
+- **key_mapping** 함수와 **RaccoonBot**의 **XYZ 좌표계**는 다음과 같습니다. (단위: cm)
+
+  <img width="500" alt="Image" src="https://github.com/user-attachments/assets/12c8777d-20ad-4e7d-983b-cd4033817549" /> <img width="500" alt="Image" src="https://github.com/user-attachments/assets/02a18a92-bdf9-423a-80f0-47903d1bed77" />
+
+<br><br>
+
+- **Z축**의 경우 키보드를 완전히 누르는 좌표보다 **0.2cm 더 낮게** 설정합니다.
+
+  <img width="500" alt="Image" src="https://github.com/user-attachments/assets/8f6145cb-52f2-431c-8cac-0dfb8f1fadff" />
+
+<br><br>
+
+- **1 ~ 0** | **a ~ z** | **,** | **.** | **Caps lock** | **Space** | **Enter**의 좌표를 모두 수정하고 문장 입력에 차례대로 입력하며 확인합니다.
+
+  <img width="1500" alt="Image" src="https://github.com/user-attachments/assets/3a01331f-c1b0-402b-b966-d7c0ff4fa67c" />
 
 <br><br>
 
