@@ -4,20 +4,21 @@
 
 ***
 
-RaccoonBot이 입력된 문장을 직접 키보드로 반복 타이핑하는 예제입니다.
-<br>
-예제에는 **잘못된 입력 감지**, **대/소문자 감지**, **키 입력 감지/재시도** 기능이 있습니다.
-<br>
-
- <img width="500" alt="Image" src="https://github.com/user-attachments/assets/922f348e-4223-48b0-a655-dfa4bb3dde81" />
-
-<br><br>
-
 #### [하드웨어 설명](https://github.com/RoboidStudioLAB/Wiki_Image/wiki/%EB%9D%BC%EC%BF%A4-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EC%84%A4%EB%AA%85)
   
 #### [로보메이션 깃허브 바로가기](https://github.com/RobomationLAB)
 
 #### [초보자를 위한 파이썬 설치 가이드](https://github.com/RobomationLAB/Hamster-S_API_KR/wiki/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
+
+***
+
+
+Raccoon이 입력된 문장을 직접 키보드로 반복 타이핑하는 예제입니다.
+<br>
+예제에는 **잘못된 입력 감지**, **대/소문자 감지**, **키 입력 감지/재시도** 기능이 있습니다.
+<br>
+
+ <img width="500" alt="Image" src="https://github.com/user-attachments/assets/922f348e-4223-48b0-a655-dfa4bb3dde81" />
 
 <br><br>
 
